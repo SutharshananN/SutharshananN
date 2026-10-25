@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sutharshanan 👋
 
-<!--
-**SutharshananN/SutharshananN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Devops Engineer | DevOps | 15 years of experience**
+OpenShift/OKD · Kubernetes · GitOps · Observability · CI/CD
 
-Here are some ideas to get you started:
+I design and run Kubernetes and OpenShift platforms at scale, automate delivery
+with GitOps and GitLab CI, and build monitoring that catches problems before
+users do. I also lead and mentor a DevOps team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chennai, India
+🎯 Open to Platform Engineer / SRE / DevOps Lead roles
+📫 [LinkedIn URL](https://www.linkedin.com/in/sutharsanan-nagarajan-1a306320 )
+
+## 🛠️ What I work with
+
+| Area | Tools |
+|---|---|
+| Platform | OpenShift/OKD, Kubernetes, Helm, Kustomize |
+| GitOps & CI/CD | ArgoCD, GitLab CI, Jenkins, GitHub Actions |
+| Observability | Prometheus, Alertmanager, Grafana, ELK |
+| Security | Trivy, Kyverno, policy as code, compliance automation |
+| Automation | Bash, Python, Ansible, Terraform |
+
+## 🚀 Featured projects
+
+| Project | What it does |
+|---|---|
+| [openshift-ops-toolkit](link) | OpenShift troubleshooting runbooks, upgrade checklists, ops scripts |
+
+_More coming soon._
+
+## 📝 Currently
+
+- Building a public portfolio of Devops and Platform engineering projects
