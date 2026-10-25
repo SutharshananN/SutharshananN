@@ -18,8 +18,8 @@ users do. I also lead and mentor a DevOps team.
 | Platform | OpenShift/OKD, Kubernetes, Helm, Kustomize |
 | GitOps & CI/CD | ArgoCD, GitLab CI, Jenkins, GitHub Actions |
 | Observability | Prometheus, Alertmanager, Grafana, ELK |
-| Security | Trivy, Kyverno, policy as code, compliance automation |
-| Automation | Bash, Python, Ansible, Terraform |
+| Security | Trivy, policy as code, compliance automation |
+| Automation | Bash, Python |
 
 ## 🚀 Featured projects
 
