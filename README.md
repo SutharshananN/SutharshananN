@@ -1,4 +1,4 @@
-# Hi, I'm Sutharshanan 👋
+# Hi, I'm Sutharshanan
 
 **Senior Devops Engineer | DevOps | 15 years of experience**
 OpenShift/OKD · Kubernetes · GitOps · Observability · CI/CD
